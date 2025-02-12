@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tutalmehmetakif&show_icons=true&locale=en&layout=compact" alt="tutalmehmetakif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tutalmehmetakif&show_icons=true&locale=en" alt="tutalmehmetakif" /></p>
+
+![snake gif](https://github.com/tutalmehmetakif/tutalmehmetakif/blob/output/github-snake-dark.svg)
