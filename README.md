@@ -1,11 +1,15 @@
-[![MasterHead](https://tamediacdn.techaheadcorp.com/wp-content/uploads/2023/11/16044253/Kotlin-Programming-for-Android-App-Development.webp)
+
 
 <h1 align="center">Hi 👋, I'm Mehmet Akif Tutal</h1>
-<h3 align="center">A passionate Android developer from Türkiye</h3>
+<h3 align="center">A passionate Software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Kotlin**
+<img align="right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🌱 I’m currently learning **Jetpack Compose**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tutalmehmetakif&label=Profile%20views&color=0e75b6&style=flat" alt="tutalmehmetakif" /> </p>
+
+- 🔭 I’m currently working on **Kotlin and C#**
+
+- 🌱 I’m currently learning **Jetpack Compose and .Net**
 
 - 📫 How to reach me **tutalmehmetakif@gmail.com**
 
@@ -21,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tutalmehmetakif&show_icons=true&locale=en" alt="tutalmehmetakif" /></p>
 
-![snake gif](https://github.com/tutalmehmetakif/tutalmehmetakif/blob/output/github-snake-dark.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tutalmehmetakif&" alt="tutalmehmetakif" /></p>
