@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tutalmehmetakif&show_icons=true&locale=en" alt="tutalmehmetakif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tutalmehmetakif&" alt="tutalmehmetakif" /></p>
+
+
+
+![snake gif](https://github.com/tutalmehmetakif/tutalmehmetakif/blob/output/github-snake-dark.svg)
