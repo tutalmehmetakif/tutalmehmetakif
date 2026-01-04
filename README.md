@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutalmehmetakif&label=Profile%20views&color=0e75b6&style=flat" alt="tutalmehmetakif" /> </p>
 
 - 🔭 I’m currently working on **Kotlin and C#**
-- 🌱 I’m currently learning **Jetpack Compose and .Net**
+- 🌱 I’m currently learning **Jetpack Compose and Flutter**
 - 📫 How to reach me **tutalmehmetakif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
