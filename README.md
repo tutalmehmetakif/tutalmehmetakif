@@ -2,7 +2,7 @@
 <h3 align="center">Mobile & Software Developer from Türkiye 🇹🇷</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tutalmehmetakif&label=Profile%20views&color=0e75b6&style=flat" alt="tutalmehmetakif" />
+  <img src="https://komarev.com/ghpvc/?username=tutalmehmetakif&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 - 🔭 I’m currently working on **Kuaför Randevu Sistemi**
@@ -43,8 +43,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutalmehmetakif&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tutalmehmetakif&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats-kappa-khaki-26.vercel.app/api?username=tutalmehmetakif&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-kappa-khaki-26.vercel.app/api/top-langs?username=tutalmehmetakif&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
